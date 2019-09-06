@@ -71,7 +71,7 @@ body {
   background-color: lightskyblue;
 }
 
-.home-button:hover{
+.home-button:hover {
   text-decoration: underline;
   background-color: rgb(1, 165, 97);
 }

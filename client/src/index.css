@@ -70,3 +70,13 @@ body {
   padding: 5px 10px;
   background-color: lightskyblue;
 }
+
+.home-button:hover {
+  text-decoration: underline;
+  background-color: rgb(1, 165, 97);
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
